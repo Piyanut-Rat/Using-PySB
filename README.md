@@ -7,8 +7,8 @@ Citation
 1. Usig PySB:
  https://pysb.readthedocs.io/en/stable/tutorial.html
 	
- https://www.embopress.org/doi/full/10.1038/msb.2013.1
- C. F. Lopez, J. L. Muhlich, J. A. Bachman, and P. K. Sorger, “Programming biological models in Python using PySB,” Mol. Syst. Biol., vol. 9, no. 646, pp. 1–19, 2013, doi: 10.1038/msb.2013.1.
+ 	https://www.embopress.org/doi/full/10.1038/msb.2013.1
+ 	C. F. Lopez, J. L. Muhlich, J. A. Bachman, and P. K. Sorger, “Programming biological models in Python using PySB,” Mol. Syst. Biol., vol. 9, no. 646, pp. 1–19, 2013, doi: 10.1038/msb.2013.1.
  
 
 2. Using BioMASS:
