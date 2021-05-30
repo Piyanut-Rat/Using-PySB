@@ -1,7 +1,7 @@
 # Using-PySB
 Main concept:
-1.How to use PySB tool. 
-2.How to connect PySB framework to BioMASS.
+1. How to use PySB tool. 
+2. How to connect PySB framework to BioMASS.
 
 Citation
 1. Usig PySB:
