@@ -16,3 +16,8 @@ C. F. Lopez, J. L. Muhlich, J. A. Bachman, and P. K. Sorger, “Programming biol
 
 Imoto, H., Zhang, S. & Okada, M. A Computational Framework for Prediction and Analysis of Cancer Signaling Dynamics from RNA Sequencing Data—Application to the ErbB Receptor Signaling Pathway. Cancers. 12, 2878 (2020). https://doi.org/10.3390/cancers12102878
 
+
+Document:
+
+https://drive.google.com/drive/folders/1rBS-1fQ-sFyMuZpkSCsHStHmaYXccq5S
+
