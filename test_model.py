@@ -14,6 +14,13 @@ solver = Solver(model, t)
 solver.run()
 print(solver.y[:, 0])
 
+'''
+2021-06-04 21:20:05.688 - pysb.simulator.scipyode - WARNING - [test_model] This system of ODEs will be evaluated in pure Python. 
+This may be slow for large models. We recommend installing the 'cython' package for compiling the ODEs to C code. 
+This warning can be suppressed by specifying compiler='python'.
+'''
+
+
 
 
 
