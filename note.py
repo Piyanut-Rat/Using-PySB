@@ -44,5 +44,8 @@ FileNotFoundError: [WinError 2] The system cannot find the file specified"
 04/6/2021: To acheived installation BioNetGen
             For windown has to perl before install RuleBender (include BioNetgen folder amd set BNGPATH for environment variable) ->
             https://github.com/RuleWorld/rulebender/blob/master/docs/RuleBender-installation-guide.pdf
+            **Perl is a programming language suitable for writing simple scripts as well as complex applications — see https://www.perl.org.
+            Due to BNG2.pl has .pl so it has to programming language for read file.
+
 
 '''
