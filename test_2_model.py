@@ -1,4 +1,4 @@
-Cite: https://github.com/pysb/pysb/blob/master/pysb/examples/hello_pysb.py
+#Cite: https://github.com/pysb/pysb/blob/master/pysb/examples/hello_pysb.py
 
 """Hello PySB! (i.e. hello world) A simple model with a reversible binding rule.
 (This is the example shown on the pysb.org home page.)
