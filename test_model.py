@@ -1,4 +1,4 @@
-
+#Cite: https://pysb.readthedocs.io/en/stable/tutorial.html#introduction
 #import pysb
 #import bionetgen
 #pysb.pathfinder.set_path('bng','c:\\Users\\Lenovo\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\bionetgen\\bng-win\\BNG2.pl')
