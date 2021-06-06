@@ -46,6 +46,6 @@ FileNotFoundError: [WinError 2] The system cannot find the file specified"
             https://github.com/RuleWorld/rulebender/blob/master/docs/RuleBender-installation-guide.pdf
             **Perl is a programming language suitable for writing simple scripts as well as complex applications — see https://www.perl.org.
             Due to BNG2.pl has .pl so it has to programming language for read file.
-
+06/6/2021: pip install bionetgen + parl installation (for read transcript) + set new path environment (BNGPATH; address of package cite pip install bionetgen)
 
 '''
