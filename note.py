@@ -48,4 +48,5 @@ FileNotFoundError: [WinError 2] The system cannot find the file specified"
             Due to BNG2.pl has .pl so it has to programming language for read file.
 06/6/2021: pip install bionetgen + parl installation (for read transcript) + set new path environment (BNGPATH; address of package cite pip install bionetgen)
 
+15/6/2021: review path environment variable
 '''
